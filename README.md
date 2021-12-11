@@ -41,4 +41,4 @@
 </p>
 
 <h3> Моя активность </h3>
-  ![Activity](https://github-readme-stats.vercel.app/api?username=ovhxakin&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true)
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ovhxakin&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
