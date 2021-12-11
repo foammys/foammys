@@ -30,6 +30,9 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  
+<h3> Моя активность </h3>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ovhxakin&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 
 <h3> 🤝🏻 &nbsp;Связь со мной </h3>
 
@@ -39,6 +42,3 @@
 <a href="https://youtube.com/c/Foammys/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Foammy-blue?style=flat-square&logo=youtube"></a>
 <a href="mailto:me@foammy.pw"><img alt="Email" src="https://img.shields.io/badge/Email-me@foammy.pw-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<h3> Моя активность </h3>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ovhxakin&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
