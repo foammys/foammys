@@ -34,7 +34,7 @@
 <h3> 📈 &nbsp;Моя статистика </h3>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ovhxakin&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 
-<h3> 🤝🏻 &nbsp;Связь со мной </h3>
+<h3> 📱 &nbsp;Связь со мной </h3>
 
 <p align="center">
 <a href="https://foammy.pw"><img alt="Website" src="https://img.shields.io/badge/WebSite-foammy.pw-blue?style=flat-square&logo=google-chrome"></a>
