@@ -39,3 +39,6 @@
 <a href="https://youtube.com/c/Foammys/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Foammy-blue?style=flat-square&logo=youtube"></a>
 <a href="mailto:me@foammy.pw"><img alt="Email" src="https://img.shields.io/badge/Email-me@foammy.pw-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<h3> Моя активность </h3>
+  ![Activity](https://github-readme-stats.vercel.app/api?username=ovhxakin&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true)
