@@ -36,8 +36,8 @@
 <h3> 📱 &nbsp;Связь со мной </h3>
 
 <p align="center">
-<a href="https://foammy.pw"><img alt="Website" src="https://img.shields.io/badge/WebSite-foammy.pw-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://foammy.com"><img alt="Website" src="https://img.shields.io/badge/WebSite-foammy.pw-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://vk.com/foammy/"><img alt="VK" src="https://img.shields.io/badge/VK-foammy-blue?style=flat-square&logo=vk"></a>
 <a href="https://youtube.com/c/Foammys/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Foammy-blue?style=flat-square&logo=youtube"></a>
-<a href="mailto:me@foammy.pw"><img alt="Email" src="https://img.shields.io/badge/Email-me@foammy.pw-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:me@foammy.com"><img alt="Email" src="https://img.shields.io/badge/Email-me@foammy.pw-blue?style=flat-square&logo=gmail"></a>
 </p>
