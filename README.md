@@ -16,7 +16,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -27,6 +27,7 @@
   ![SublimeText](https://img.shields.io/badge/-SublimeText-333333?style=flat&logo=SublimeText)
   ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Idea](https://img.shields.io/badge/-Intellij%20Idea-333333?style=flat&logo=intellijidea)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
@@ -37,7 +38,7 @@
 
 <p align="center">
 <a href="https://foammy.com"><img alt="Website" src="https://img.shields.io/badge/WebSite-foammy.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://vk.com/foammy/"><img alt="VK" src="https://img.shields.io/badge/VK-foammy-blue?style=flat-square&logo=vk"></a>
+<a href="https://t.me/ovhxakin"><img alt="TG" src="https://img.shields.io/badge/TG-ovhxakin-blue?style=flat-square&logo=telegram"></a>
 <a href="https://youtube.com/c/Foammys/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Foammy-blue?style=flat-square&logo=youtube"></a>
 <a href="mailto:me@foammy.com"><img alt="Email" src="https://img.shields.io/badge/Email-me@foammy.com-blue?style=flat-square&logo=gmail"></a>
 </p>
