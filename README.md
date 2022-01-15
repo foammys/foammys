@@ -31,7 +31,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
 <h3> 📈 &nbsp;Моя статистика </h3>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ovhxakin&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=foammys&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 
 <h3> 📱 &nbsp;Связь со мной </h3>
 
