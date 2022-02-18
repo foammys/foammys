@@ -30,6 +30,8 @@
   ![Idea](https://img.shields.io/badge/-Intellij%20Idea-333333?style=flat&logo=intellijidea)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  
   
 <h3> 📈 &nbsp;Моя статистика </h3>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=foammys&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true"/>
